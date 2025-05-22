@@ -10,5 +10,5 @@ moteghayer first = 5;
 moteghayer second = 15;
 moteghayer third = first + second;
 
-third // will print 'result: 20'
+third; // will print 'result: 20'
 ```
