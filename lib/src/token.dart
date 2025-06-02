@@ -1,4 +1,4 @@
-// idendied tokens for orange lang.
+// identified tokens of orange lang.
 enum TokenType {
   moteghayer, identifier, number, equals, plus, semicolon, eof
 }
